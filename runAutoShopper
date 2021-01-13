@@ -1,0 +1,4 @@
+#!/bin/sh
+cd ~
+cd Desktop/Personal\ Projects/AutoShopper/
+python3 autoShopping.py
